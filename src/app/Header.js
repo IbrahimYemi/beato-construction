@@ -19,7 +19,7 @@ export default function Header() {
             <Image src="/logo.png" width={100} height={100} alt="Beato Logo" />
             <span className="-ml-2 self-center text-lg font-semibold whitespace-nowrap">
               BEATO <br />
-              CONSULTING
+              CONSULTING LLC
             </span>
           </a>
           {/* small screen */}
@@ -27,7 +27,7 @@ export default function Header() {
             <Image src="/logo.png" width={60} height={60} alt="Beato Logo" />
             <span className="self-center text-xs font-semibold whitespace-nowrap">
               BEATO <br />
-              CONSULTING
+              CONSULTING LLC
             </span>
           </a>
           <div className="flex items-center lg:order-2">
