@@ -1,9 +1,14 @@
 import Image from "next/image";
 import Footer from "./footer";
 import Header from "./Header";
+import Head from "next/head";
 
 export default function Home() {
   return (
+    <>
+    <Head>
+      <link rel="icon" href="/logo.png" />
+    </Head>
     <main className="min-h-screen">
       <Header />
       <section className="bg-gray-900 min-h-[60vh] flex flex-col items-center justify-center">
@@ -36,5 +41,6 @@ export default function Home() {
       </section>
       <Footer />
     </main>
+    </>
   );
 }
