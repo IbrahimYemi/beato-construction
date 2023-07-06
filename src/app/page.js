@@ -24,12 +24,12 @@ export default function Home() {
           </h1>
           <p className="font-light text-gray-100 md:text-lg xl:text-xl">
             We are excited to announce the start of our second company which is 
-            established in the Meydan Free Zone in Dubai and will inform you as soon as 
-            possible on the new website.
+            established in the Meydan Free Zone in Dubai. <br/><br/>
             We will inform you about our unique consulting services for data strategy and 
             technologies, investment projects development, commodities trade business 
-            support and about us.<br/>
-            For inquiries, please contact us direct.
+            support and about us.<br/><br/>
+            For inquiries, please contact us directly at:<br/>
+            info@beatoconsultingllc.com | +971 54 996 2845 | +971 50 996 2840<br/>
             For more information about our data strategy and technologies consulting 
             services go to: www.alstrada.com
           </p>
