@@ -16,7 +16,7 @@ export default function Header() {
         <div className="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
           {/* large screen */}
           <a href="/" className="sm:flex items-center hidden">
-            <Image src="/logo.png" width={100} height={100} alt="Beato Logo" />
+            <Image src="/logo.png" width={80} height={80} alt="Beato Logo" />
             <span className="-ml-2 self-center text-lg font-semibold whitespace-nowrap">
               BEATO <br />
               CONSULTING LLC
