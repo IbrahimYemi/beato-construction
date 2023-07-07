@@ -24,7 +24,7 @@ export default function Header() {
           </a>
           {/* small screen */}
           <a href="/" className="flex items-center sm:hidden">
-            <Image src="/logo.png" width={40} height={40} alt="Beato Logo" />
+            <Image src="/logo.png" width={50} height={50} alt="Beato Logo" />
             <span className="self-center text-gray-100 text-xs font-semibold whitespace-nowrap">
               BEATO <br />
               CONSULTING LLC
