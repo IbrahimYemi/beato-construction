@@ -29,9 +29,10 @@ export default function Home() {
             technologies, investment projects development, commodities trade business 
             support and about us.<br/><br/>
             For inquiries, please contact us directly at:<br/>
-            info@beatoconsultingllc.com | +971 54 996 2845 | +971 50 996 2840<br/>
+            info@beatoconsultingllc.com | +971 54 996 2845 | +971 50 996 2840<br/><br/>
             For more information about our data strategy and technologies consulting 
-            services go to: www.alstrada.com
+            services go to<br/>
+            <a href="https://www.alstrada.com" className="underline">www.alstrada.com</a>
           </p>
         </div>
       </section>
