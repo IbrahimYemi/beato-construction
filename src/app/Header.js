@@ -17,15 +17,15 @@ export default function Header() {
           {/* large screen */}
           <a href="/" className="sm:flex items-center hidden">
             <Image src="/logo.png" width={80} height={80} alt="Beato Logo" />
-            <span className="ml-2 self-center text-lg font-semibold whitespace-nowrap">
+            <span className="ml-2 self-center text-gray-100 text-lg font-semibold whitespace-nowrap">
               BEATO <br />
               CONSULTING LLC
             </span>
           </a>
           {/* small screen */}
           <a href="/" className="flex items-center sm:hidden">
-            <Image src="/logo.png" width={60} height={60} alt="Beato Logo" />
-            <span className="self-center text-xs font-semibold whitespace-nowrap">
+            <Image src="/logo.png" width={40} height={40} alt="Beato Logo" />
+            <span className="self-center text-gray-100 text-xs font-semibold whitespace-nowrap">
               BEATO <br />
               CONSULTING LLC
             </span>

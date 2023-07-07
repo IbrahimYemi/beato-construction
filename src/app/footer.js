@@ -5,7 +5,7 @@ export default function Footer() {
     <footer className="p-4 bg-gray-900 md:p-8 lg:p-10">
       <div className="mx-auto max-w-screen-xl text-center">
         <hr/>
-        <p className="text-base md:text-xl my-2">BEATO CONSULTING LLC</p>
+        <p className="text-base md:text-xl my-2  text-gray-100">BEATO CONSULTING LLC</p>
         <p className="my-3 text-gray-100">Business Center 1, M Floor, The Meydan Hotel, Nad Al Sheba, Dubai, U.A.E</p>
         <ul className="flex flex-wrap justify-center items-center mb-6 text-gray-300">
           <li>
